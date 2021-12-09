@@ -50,7 +50,7 @@ public class Example1 {
 
     }
 
-   /* private static void part2(int[] arr) {
+   private static void part2(int[] arr) {
         int n = arr.length;
         int divisible5 = 0, notDivisible5 = n-1;
         while(divisible5 < n && notDivisible5 >= 0 && divisible5 <= notDivisible5){
@@ -67,5 +67,5 @@ public class Example1 {
             --notDivisible5;
         }
 
-    }*/
+    }
 }
